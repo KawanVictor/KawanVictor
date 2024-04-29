@@ -1,4 +1,4 @@
-- 👋 Oie, eu sou @KawanVictor
+- 👋 Ola, eu sou @KawanVictor
 - 👀 Eu estou interessado e Programação e rede
 - 🌱 Estou atualmente aprendendo C++ e JavaScript
 - 📫 Pode me encontrar atualmente pelo LinkedIn https://www.linkedin.com/in/kawan-cavalcante/
