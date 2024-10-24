@@ -1,0 +1,187 @@
+html, body {
+    background-color: rgba(94, 220, 94, 0.623);
+    
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.botfundo {
+    background-image: url('https://i0.wp.com/universodosparques.com.br/wp-content/uploads/2023/05/jardim-botanico-de-curitiba-scaled.jpg?fit=2560%2C1707&ssl=1'); /* Substitua com o caminho da sua imagem */
+    background-size: contain; /* Para cobrir a página toda */
+    background-repeat: repeat; /* Impede que a imagem se repita */
+    height: 100vh; /* Faz o fundo cobrir toda a altura da página */
+    margin: 0;
+    padding: 0;
+    opacity: 0.5;
+    z-index: -1;
+  }
+
+hr {
+        border: 5px solid rgb(84, 84, 84);
+        width: 100%;
+    }
+
+
+
+header {
+    text-align: center;
+    background-image: url('fundo.jpeg');
+    background-size: cover ;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    padding: 60px 20px;
+    font-family: 'Lucida Sans';
+}
+
+header h1 {
+    font-size: 3em;
+    margin: 0;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+}
+
+header p {
+    font-size: 1.5em;
+    margin: 10px 0 0 0;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+.tabela-turismo {
+    text-align: center;
+    margin: 40px auto;
+    width: 60%;
+    height: 40px;
+}
+
+.tabela-turismo h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: rgba(0, 220, 0, 0.452);
+    font-family: sans-serif;
+}
+
+table th, table td {
+    padding: 15px;
+    border: 1px solid #000000;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+table th {
+    background-color: #009333;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+table tr:nth-child(even) {
+    background-color: #029902;
+}
+
+table tr:hover {
+    background-color: #e0e0e0;
+}
+
+table td a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+table td a:hover {
+    color: #2e7d32;
+}
+
+.imagem-turismo {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.descricao, .localizacao {
+    text-align: center;
+    margin: 20px 0;
+    padding: 10px 20px;
+    font-family: 'Gill Sans';
+}
+
+.localizacao h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.descricao p, .localizacao p {
+    font-size: 1.2em;
+    color: #070707;
+    font-family: 'Lucida Sans';
+    text-align: center center;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: rgb(255, 0, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+nav ul {
+    list-style-type:lower-latin;
+    padding: 0;
+    text-align: center;   
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #980505;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+nav ul li a:hover {
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
+@media (max-width: 1200px) {
+    header h1 {
+        font-size: 2.5em;
+    }
+    header p {
+        font-size: 1.2em;
+    }
+    table th, table td {
+        font-size: 1em;
+    }
+}
