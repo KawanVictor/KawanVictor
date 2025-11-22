@@ -1,108 +1,112 @@
-# 👋 Olá, sou Kawan Victor Cavalcante
+👋 Olá, sou Kawan Victor Cavalcante
 
-🎓 Estudante de **Engenharia de Software** na Estácio  | Estudante de "Analise e Desenvolvimento de Sistemas" na Unicesumar  
-💼 Analista Telecom Jr na Vivo
-📍 Curitiba 
+🎓 Estudante de Engenharia de Software – Estácio
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – Unicesumar
+💼 Analista Telecom Jr – Vivo (O&M TV Transformação)
+📍 Curitiba – PR
 
-🔗 [LinkedIn](https://www.linkedin.com/in/kawan-cavalcante/) | [GitHub](https://github.com/KawanVictor)
+🔗 LinkedIn
+ • GitHub
 
----
+👨‍💻 Sobre mim
 
-## 👨‍💻 Sobre mim
+Sou um profissional apaixonado por tecnologia, com experiência em telecomunicações, infraestrutura IPTV/OTT, monitoramento de redes e desenvolvimento de software. Hoje faço parte da área de O&M TV – Transformação na Vivo, atuando com automação, backend, frontend e integrações internas para aprimorar plataformas e otimizar fluxos operacionais.
 
-Sou um profissional apaixonado por tecnologia, com foco em infraestrutura, programação e automação de processos. Atuo como Analista Telecom Jr na Vivo, onde lido diariamente com redes, sistemas de monitoramento e soluções de conectividade.
+Trabalho diariamente com TypeScript, Nest.js, Node.js, React, PostgreSQL e DataMiner, criando soluções escaláveis, APIs, serviços e ferramentas internas que apoiam áreas como Engenharia, Banda Larga, Infraestrutura e Produto. Trago também uma forte bagagem técnica em redes, equipamentos Cisco/Nokia/Huawei, monitoramento com Grafana/Zabbix e diagnósticos avançados.
 
-Além da experiência prática em telecomunicações, estou em constante evolução na área de desenvolvimento de software, especialmente com tecnologias Back-End, Full Stack e bots inteligentes.
+Minha missão é unir telecom + desenvolvimento para construir soluções inteligentes, melhorar processos e entregar resultados reais no dia a dia das operações. Busco escrever código limpo, aplicando boas práticas, automações e aprendizado contínuo para evoluir sempre.
 
-Gosto de transformar desafios técnicos em soluções eficientes — seja por meio de código limpo, scripts automatizados, sistemas internos, ou ferramentas que otimizem o dia a dia de equipes e empresas.
+🛠️ Minhas Skills
+💻 Desenvolvimento & Programação
+<p> <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,js,python,java,go,cs,php,html,css" /> </p>
 
----
+Linguagens: TypeScript, JavaScript, Python, Java, Go (Golang), C#, PHP
 
-## 🛠️ Minhas Skills
+Back-End: Node.js, Nest.js, Express
 
-### 💻 Programação & Desenvolvimento
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,csharp,nodejs,express,dotnet,php" />
-</p>
+Front-End: React, HTML5, CSS3, JavaScript (ES6+)
 
-- **Linguagens:** JavaScript, Python, Java, C#, PHP  
-- **Frameworks:** Node.js, Express, .NET, ASP.NET  
-- **Front-End:** HTML5, CSS3, JavaScript (DOM), Bootstrap  
-- **Programação Orientada a Objetos (POO)**  
-- **Criação de APIs RESTful**
+APIs: REST, RESTful
 
----
+Arquitetura: POO, SOLID, padrões de projeto
 
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-</p>
+Automação: scripts, bots internos, integrações com DataMiner
 
-- **MySQL**, **PostgreSQL**, **MongoDB**, **SQLite**
-- Modelagem relacional e consultas SQL
-- NoSQL (MongoDB)
+Testes: Jest (aprendizado), validações e tratamento de erros
 
----
+🗄️ Banco de Dados
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /> </p>
 
-### 🖥️ Sistemas Operacionais
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
+PostgreSQL (principal stack atual)
 
-- Terminal Linux
-- Shell Script
-- Gerenciamento de servidores e redes (IPTV/OTT, VPN, DNS)
+MySQL, SQLite e MongoDB
 
----
+Modelagem relacional e consultas complexas
 
-### 🌐 Infraestrutura, Redes & Monitoramento
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
-</p>
+Integração com ORMs e serviços internos
 
-- Administração de redes e servidores
-- Infraestrutura de Telecom
-- **Monitoramento:** Grafana, Zabbix  
-- **Soluções de rede:** Cisco, Nokia, Huawei  
-- Versionamento com Git & GitHub
-- Docker (em aprendizado)
+⚙️ Infraestrutura, Redes & Monitoramento
+<p> <img src="https://skillicons.dev/icons?i=linux,docker,git,github" /> </p>
 
----
+Infraestrutura IPTV/OTT
 
-### 🤖 Inteligência Artificial & Automatizações
-- GitHub Copilot
-- IAs Generativas (teoria e aplicações)
-- Automatização com scripts
-- Conceitos de Machine Learning
+Redes e protocolos
 
----
+Equipamentos Cisco, Nokia, Huawei
 
-## 📜 Certificados Relevantes
+DataMiner – automações, dashboards, integrações
 
-- Terminal Linux, Shell Script e Gerenciamento de Redes – **Udemy (2025)**
-- IA Generativa com GitHub Copilot – **DIO (2024)**
-- Python AI Backend Developer – **DIO (2024)**
-- Trilha Digital: Front-End – **Ada/Santander Coders (2024)**
-- C# Completo com POO – **Udemy (2024)**
-- JavaScript com Node.js – **Udemy (2024)**
-- Desenvolvimento Web Completo – **Udemy (2023)**
-- Java com Orientação a Objetos – **Udemy (2023)**
-- Banco de Dados e SQL – **Udemy (2022)**
+Monitoramento: Grafana, Zabbix
 
----
+Linux (terminal, automações, scripts)
 
-## 📌 Status Atual
+Docker (aprendizado contínuo)
 
-- 👨‍🎓 Estudando Engenharia de Software na Estácio
-- 👨‍💻 Aprofundando conhecimentos em Angular e APIs REST
-- ⚙️ Criando automações e bots internos
-- 🧠 Explorando IA generativa aplicada ao dia a dia
+Git & GitHub para versionamento
 
----
+🤖 Inteligência Artificial & Automatizações
 
-## 📈 Estatísticas GitHub
+Automação de processos internos
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KawanVictor&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanVictor&layout=compact&theme=radical"/>
-</p>
+IA generativa aplicada ao desenvolvimento
+
+Scripts Python/Node.js para operações
+
+GitHub Copilot
+
+Introdução a Machine Learning
+
+📜 Certificados Relevantes
+
+Python AI Backend Developer – DIO (2024)
+
+IA Generativa com GitHub Copilot – DIO (2024)
+
+Trilha Front-End – Ada/Santander Coders (2024)
+
+C# Completo com POO – Udemy (2024)
+
+Terminal Linux, Shell Script e Redes – Udemy (2025)
+
+JavaScript com Node.js – Udemy (2024)
+
+Desenvolvimento Web Completo – Udemy (2023)
+
+Java com POO – Udemy (2023)
+
+Banco de Dados e SQL – Udemy (2022)
+
+📌 Status Atual
+
+🚀 Desenvolvendo APIs, automações e serviços internos (TS/Nest/Node)
+
+⚙️ Criando novas funcionalidades para plataformas internas da Vivo
+
+🎯 Expandindo conhecimento em arquitetura backend e testes
+
+📚 Estudando Go (Golang) e aprofundando práticas avançadas em SQL
+
+🧠 Explorando IA aplicada à otimização operacional
+
+📈 Estatísticas GitHub
+<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KawanVictor&show_icons=true&theme=radical"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanVictor&layout=compact&theme=radical"/> </p>
