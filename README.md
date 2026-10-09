@@ -1,112 +1,103 @@
-👋 Olá, sou Kawan Victor Cavalcante
+<h1 align="center">Kawan Victor Cavalcante</h1>
 
-🎓 Estudante de Engenharia de Software – Estácio
-🎓 Estudante de Análise e Desenvolvimento de Sistemas – Unicesumar
-💼 Analista Telecom Jr – Vivo (O&M TV Transformação)
-📍 Curitiba – PR
+<p align="center">
+  <b>Desenvolvedor Full Stack · Telecom + Software</b><br>
+  TypeScript · Node.js · NestJS · React · Python · PostgreSQL · Docker
+</p>
 
-🔗 LinkedIn
- • GitHub
+<p align="center">
+  <a href="https://www.linkedin.com/in/kawan-cavalcante/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kawan.cavalcante@outlook.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
+  <img src="https://img.shields.io/badge/Curitiba%20·%20BR-remoto-2ea44f?style=for-the-badge" alt="Curitiba, BR — remoto">
+</p>
 
-👨‍💻 Sobre mim
+---
 
-Sou um profissional apaixonado por tecnologia, com experiência em telecomunicações, infraestrutura IPTV/OTT, monitoramento de redes e desenvolvimento de software. Hoje faço parte da área de O&M TV – Transformação na Vivo, atuando com automação, backend, frontend e integrações internas para aprimorar plataformas e otimizar fluxos operacionais.
+## Sobre mim
 
-Trabalho diariamente com TypeScript, Nest.js, Node.js, React, PostgreSQL e DataMiner, criando soluções escaláveis, APIs, serviços e ferramentas internas que apoiam áreas como Engenharia, Banda Larga, Infraestrutura e Produto. Trago também uma forte bagagem técnica em redes, equipamentos Cisco/Nokia/Huawei, monitoramento com Grafana/Zabbix e diagnósticos avançados.
+Trabalho na **Engenharia de Transporte e Infraestrutura da Telefônica/Vivo**, onde desenvolvo **integrações entre sistemas, automações e ferramentas internas** para operação de rede.
 
-Minha missão é unir telecom + desenvolvimento para construir soluções inteligentes, melhorar processos e entregar resultados reais no dia a dia das operações. Busco escrever código limpo, aplicando boas práticas, automações e aprendizado contínuo para evoluir sempre.
+Comecei na operação de telecom (N1/N2), lidando com monitoramento de ambientes críticos, incidentes e indicadores de SLA. Com o tempo, passei a resolver esses problemas com código. Hoje construo APIs, conectores e dashboards que reduzem trabalho manual e dão visibilidade para a operação.
 
-🛠️ Minhas Skills
-💻 Desenvolvimento & Programação
-<p> <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,js,python,java,go,cs,php,html,css" /> </p>
+**O que me diferencia:** entendo tanto a rede quanto o software. Já trabalhei com IPTV/OTT e equipamentos Cisco, Nokia e Huawei, e hoje escrevo os sistemas que monitoram e automatizam esse ambiente.
 
-Linguagens: TypeScript, JavaScript, Python, Java, Go (Golang), C#, PHP
+**Busco:** posições de **Desenvolvedor Backend / Full Stack**, com interesse em DevOps, SRE e observabilidade. Tenho preferência por trabalho remoto e estou aberto a empresas no Brasil e no exterior.
 
-Back-End: Node.js, Nest.js, Express
+---
 
-Front-End: React, HTML5, CSS3, JavaScript (ES6+)
+## No que trabalho hoje
 
-APIs: REST, RESTful
+- 🔌 **Conectores e integração de sistemas**: APIs REST entre plataformas de rede, monitoramento e ferramentas internas
+- 🤖 **Integração de agentes de IA**: automação de rotinas operacionais
+- 🐳 **Docker e Kubernetes**: empacotamento e deploy de serviços
+- 📊 **Observabilidade**: Grafana, Zabbix, OpenSearch e Graylog para métricas, logs e KPIs
 
-Arquitetura: POO, SOLID, padrões de projeto
+### Exemplos de entregas profissionais
 
-Automação: scripts, bots internos, integrações com DataMiner
+> Código interno da empresa, por isso não está público.
 
-Testes: Jest (aprendizado), validações e tratamento de erros
+| Projeto | O que faz | Stack |
+|---|---|---|
+| **Monitoramento de Infraestrutura** | Painel que consome a API de monitoramento da rede e centraliza o status dos equipamentos | Node.js · TypeScript · React |
+| **API de Speedtest** | Coleta e indexa medições de velocidade para análise de qualidade | Python · OpenSearch · Graylog |
+| **KPIs de TV e Banda Larga** | Indicadores de clientes afetados, desenvolvidos junto com a área de Qualidade | TypeScript · React · SQL |
+| **Automação de N1** | Mapeamento das atividades do N1 e automação de tarefas repetitivas, com acompanhamento de KPI/SLA | TypeScript · Python |
 
-🗄️ Banco de Dados
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /> </p>
+---
 
-PostgreSQL (principal stack atual)
+## Projetos públicos
 
-MySQL, SQLite e MongoDB
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**SQL-Interface**](https://github.com/KawanVictor/SQL-Interface) | Faz consultas em linguagem natural sobre logs de falhas de canais de TV e gera SQL parametrizado, com validação contra SQL injection e log de auditoria | Python · FastAPI · React · MySQL/MariaDB |
+| [**TetrisV2-java**](https://github.com/KawanVictor/TetrisV2-java) | Tetris com cinco modos de jogo, peça fantasma, hold e ranking persistido, organizado em camadas (domain, service, infra, ui) | Java · Swing · PostgreSQL |
+| [**War**](https://github.com/KawanVictor/War) | Jogo de tabuleiro War com motor de regras, modo CLI e partidas online em tempo real | Python · Flask · Socket.IO |
+| [**ChessGame**](https://github.com/KawanVictor/ChessGame) | Xadrez com interface gráfica, IA adversária (minimax), detecção de xeque, promoção de peão e histórico de jogadas | Java · Swing |
+| [**Portfolio**](https://github.com/KawanVictor/Portfolio) | Meu site pessoal | React · TypeScript · Vite |
 
-Modelagem relacional e consultas complexas
+---
 
-Integração com ORMs e serviços internos
+## Tecnologias
 
-⚙️ Infraestrutura, Redes & Monitoramento
-<p> <img src="https://skillicons.dev/icons?i=linux,docker,git,github" /> </p>
+**Linguagens**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,java,cs" alt="TypeScript, JavaScript, Python, Go, Java, C#">
 
-Infraestrutura IPTV/OTT
+**Backend e Frontend**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,react,vue,vite" alt="Node.js, NestJS, FastAPI, React, Vue, Vite">
 
-Redes e protocolos
+**Dados, Infra e Observabilidade**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,linux,grafana,git" alt="PostgreSQL, MySQL, Docker, Kubernetes, Linux, Grafana, Git">
 
-Equipamentos Cisco, Nokia, Huawei
+Também uso: MariaDB, Zabbix, OpenSearch, Graylog, DataMiner, Expo e modelagem de dados.<br>
+Equipamentos e ambientes de telecom: Cisco, Nokia, Huawei, IPTV e OTT.
 
-DataMiner – automações, dashboards, integrações
+---
 
-Monitoramento: Grafana, Zabbix
+## Formação
 
-Linux (terminal, automações, scripts)
+- 🎓 **Pós-graduação em Desenvolvimento de Sistemas com Python**, em andamento
+- 🎓 **Engenharia de Software**, Estácio, 2025–2029, em andamento
+- 🎓 **Análise e Desenvolvimento de Sistemas**, Unicesumar, concluído
+- 📜 Certificações em Banco de Dados, Linux e Desenvolvimento Web
 
-Docker (aprendizado contínuo)
+---
 
-Git & GitHub para versionamento
+## Estudando agora
 
-🤖 Inteligência Artificial & Automatizações
+- **Go** para serviços de backend e ferramentas de linha de comando
+- **Arquitetura backend e testes automatizados** com NestJS e Jest
+- **IA aplicada a operações**: agentes que automatizam diagnóstico e triagem
 
-Automação de processos internos
+---
 
-IA generativa aplicada ao desenvolvimento
+<details>
+<summary><b>🇺🇸 English summary</b></summary>
+<br>
 
-Scripts Python/Node.js para operações
+**Full Stack Developer with a telecom background.** I work in Transport & Infrastructure Engineering at Telefônica/Vivo (Brazil), building system integrations, automation and internal tools for network operations: REST APIs, connectors, AI-agent integrations, Docker/Kubernetes deployments and observability dashboards (Grafana, OpenSearch, Graylog).
 
-GitHub Copilot
+**Stack:** TypeScript, Node.js, NestJS, React, Python, FastAPI, Go, Java, PostgreSQL, Docker, Kubernetes.
 
-Introdução a Machine Learning
+**Looking for** remote Backend / Full Stack roles, with interest in DevOps, SRE and observability.
 
-📜 Certificados Relevantes
-
-Python AI Backend Developer – DIO (2024)
-
-IA Generativa com GitHub Copilot – DIO (2024)
-
-Trilha Front-End – Ada/Santander Coders (2024)
-
-C# Completo com POO – Udemy (2024)
-
-Terminal Linux, Shell Script e Redes – Udemy (2025)
-
-JavaScript com Node.js – Udemy (2024)
-
-Desenvolvimento Web Completo – Udemy (2023)
-
-Java com POO – Udemy (2023)
-
-Banco de Dados e SQL – Udemy (2022)
-
-📌 Status Atual
-
-🚀 Desenvolvendo APIs, automações e serviços internos (TS/Nest/Node)
-
-⚙️ Criando novas funcionalidades para plataformas internas da Vivo
-
-🎯 Expandindo conhecimento em arquitetura backend e testes
-
-📚 Estudando Go (Golang) e aprofundando práticas avançadas em SQL
-
-🧠 Explorando IA aplicada à otimização operacional
-
-📈 Estatísticas GitHub
-<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KawanVictor&show_icons=true&theme=radical"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanVictor&layout=compact&theme=radical"/> </p>
+</details>
