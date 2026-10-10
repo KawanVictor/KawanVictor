@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-kawan15.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="https://kawanvictor.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/kawan-cavalcante/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:kawan.cavalcante@outlook.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
   <img src="https://img.shields.io/badge/Curitiba%20·%20BR-remoto-2ea44f?style=for-the-badge" alt="Curitiba, BR — remoto">
@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Trabalho na **Engenharia de Transporte e Infraestrutura da Telefônica/Vivo**, onde desenvolvo **integrações entre sistemas, automações e ferramentas internas** para operação de rede.
+Na **equipe de Transformação Digital da Vivo (Telefônica Brasil)**, desenvolvo aplicações web de ponta a ponta: interfaces em React e TypeScript, APIs em Node.js, NestJS e Python, banco de dados e deploy com Docker e Kubernetes.
 
 Comecei na operação de telecom (N1/N2), lidando com monitoramento de ambientes críticos, incidentes e indicadores de SLA. Com o tempo, passei a resolver esses problemas com código. Hoje construo APIs, conectores e dashboards que reduzem trabalho manual e dão visibilidade para a operação.
 
@@ -28,17 +28,17 @@ Comecei na operação de telecom (N1/N2), lidando com monitoramento de ambientes
 
 ## Projetos em destaque
 
-### 🔎 [SQL-Interface](https://github.com/KawanVictor/SQL-Interface)
-Consultas em português sobre logs de falhas de canais de TV, convertidas em SQL parametrizado. Tem validação contra SQL injection e log de auditoria.
+### 🔎 [SQL-Interface](https://github.com/KawanVictor/SQL-Interface) · [▶ testar a demo](https://kawanvictor.vercel.app/#sql-demo)
+Consultas em português sobre logs de falhas de canais de TV, convertidas em SQL parametrizado. Tem validação contra SQL injection e log de auditoria. A demo roda direto no navegador, sem instalar nada.
 `Python` `FastAPI` `React` `MySQL` `Docker` · testes com pytest · CI com GitHub Actions · sobe com `docker compose up`
 
 ### ♟️ [ChessGame](https://github.com/KawanVictor/ChessGame)
-Xadrez com interface gráfica e regras completas: roque, en passant, promoção, xeque-mate e empates. Tem IA adversária com minimax.
+Xadrez com interface gráfica e regras completas: roque, en passant, promoção, xeque-mate e empates. Tem IA adversária com minimax e histórico de lances com desfazer.
 `Java` `Swing` · suíte de testes com perft, a referência usada para validar geradores de lances
 
 ### 🗺️ [War](https://github.com/KawanVictor/War)
 O jogo de tabuleiro War, com motor de regras próprio (combate, reforços, cartas e missões). Pode ser jogado no terminal ou em partidas online em tempo real.
-`Python` `Flask` `Socket.IO` · mais de 90 testes, incluindo o fluxo de socket
+`Python` `Flask` `Socket.IO` · mais de 130 testes, incluindo o fluxo de socket
 
 ### 🧱 [TetrisV2-java](https://github.com/KawanVictor/TetrisV2-java)
 Tetris com cinco modos de jogo, peça fantasma, hold e ranking persistido, organizado em camadas (domain, service, infra, ui).
@@ -48,9 +48,9 @@ Tetris com cinco modos de jogo, peça fantasma, hold e ranking persistido, organ
 App desktop para gerenciar uma coleção de jogos: favoritos, wishlist, backlog, filtros, ranking e importação e exportação em CSV.
 `Python` `SQLite` `ttkbootstrap` · testes isolados em banco temporário
 
-### 🌐 [Portfolio](https://github.com/KawanVictor/Portfolio) · [ver site](https://portfolio-kawan15.vercel.app)
-Meu site pessoal, em português e inglês, com deploy na Vercel.
-`React` `TypeScript` `Vite`
+### 🌐 [Portfolio](https://github.com/KawanVictor/Portfolio) · [ver site](https://kawanvictor.vercel.app)
+Meu site pessoal, em português e inglês, com currículo para download e a demo interativa do SQL-Interface.
+`React` `TypeScript` `Vite` · deploy na Vercel
 
 ---
 
@@ -93,10 +93,11 @@ Meu site pessoal, em português e inglês, com deploy na Vercel.
 
 ## Formação
 
-- 🎓 **Pós-graduação em Desenvolvimento de Sistemas com Python**, em andamento
-- 🎓 **Engenharia de Software**, Estácio, 2025–2029, em andamento
+- 🎓 **Pós-graduação em Desenvolvimento de Sistemas com Python**, Unicesumar, em andamento
+- 🎓 **Engenharia de Software**, Estácio, em andamento
 - 🎓 **Análise e Desenvolvimento de Sistemas**, Unicesumar, concluído
-- 📜 Certificações em Banco de Dados, Linux e Desenvolvimento Web
+- 🎓 **Tecnólogo em Mecatrônica**, IFSP, concluído
+- 📜 Certificações em Python para backend com IA, Node.js, Banco de Dados, Linux e Desenvolvimento Web
 
 ---
 
@@ -112,12 +113,12 @@ Meu site pessoal, em português e inglês, com deploy na Vercel.
 <summary><b>🇺🇸 English summary</b></summary>
 <br>
 
-**Full Stack Developer with a telecom background.** I work in Transport & Infrastructure Engineering at Telefônica/Vivo (Brazil), building system integrations, automation and internal tools for network operations: REST APIs, connectors, AI-agent integrations, Docker/Kubernetes deployments and observability dashboards (Grafana, OpenSearch, Graylog).
+**Full Stack Developer with a telecom background.** On the Digital Transformation team at Vivo (Telefônica Brasil), I build web applications end to end: React and TypeScript interfaces, APIs in Node.js, NestJS and Python, databases, and deployment with Docker and Kubernetes. I also build system integrations, AI-agent automations and observability dashboards (Grafana, OpenSearch, Graylog).
 
-**Featured projects:** [SQL-Interface](https://github.com/KawanVictor/SQL-Interface) (natural-language queries turned into parameterized SQL; FastAPI, React, Docker, CI), [ChessGame](https://github.com/KawanVictor/ChessGame) (full chess rules with a minimax AI and perft-validated move generation), [War](https://github.com/KawanVictor/War) (Risk-style board game with real-time multiplayer over Socket.IO) and [TetrisV2](https://github.com/KawanVictor/TetrisV2-java) (Java, Maven, JUnit 5).
+**Featured projects:** [SQL-Interface](https://github.com/KawanVictor/SQL-Interface) (natural-language queries turned into parameterized SQL; FastAPI, React, Docker, CI; [live demo](https://kawanvictor.vercel.app/#sql-demo)), [ChessGame](https://github.com/KawanVictor/ChessGame) (full chess rules with a minimax AI and perft-validated move generation), [War](https://github.com/KawanVictor/War) (Risk-style board game with real-time multiplayer over Socket.IO) and [TetrisV2](https://github.com/KawanVictor/TetrisV2-java) (Java, Maven, JUnit 5).
 
 **Stack:** TypeScript, Node.js, NestJS, React, Python, FastAPI, Go, Java, PostgreSQL, Docker, Kubernetes.
 
-**Looking for** remote Backend / Full Stack roles, with interest in DevOps, SRE and observability. Portfolio: [portfolio-kawan15.vercel.app](https://portfolio-kawan15.vercel.app)
+**Looking for** remote Backend / Full Stack roles, with interest in DevOps, SRE and observability. Portfolio and résumé: [kawanvictor.vercel.app](https://kawanvictor.vercel.app)
 
 </details>
