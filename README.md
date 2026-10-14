@@ -26,31 +26,43 @@ Comecei na operação de telecom (N1/N2), lidando com monitoramento de ambientes
 
 ---
 
-## Projetos em destaque
+## Projetos no ar
+
+### 🎮 [DESTRUCTOR](https://github.com/KawanVictor/GAME-DESTRUCTOR) · [▶ jogar agora](https://game-destructor.vercel.app)
+Jogo de ação e plataforma 2D no navegador em que você constrói paredes, armadilhas e torretas enquanto segura ondas de inimigos. São 3 arenas, 10 ondas com chefes, modo infinito e controles de toque para celular. Toda a arte e o som são gerados por código.
+`TypeScript` `Phaser 3` `Vite` · 74 testes unitários (Vitest) e 17 de navegador (Playwright) · CI que barra a API de testes no build de produção · cabeçalhos de segurança (CSP) · robô que joga a partida inteira para balancear as ondas
+
+### 📝 [Notas Escolares](https://github.com/KawanVictor/Notas-Escolares) · [▶ abrir o site](https://notas-escolares-iota.vercel.app)
+Sistema para professores lançarem as notas de uma turma, calcularem as médias do trimestre e exportarem a planilha em CSV ou PDF. Cada professor entra com a própria conta e só enxerga os próprios lançamentos.
+`JavaScript` `Supabase` `PostgreSQL` · controle de acesso por linha (RLS) · login com confirmação por e-mail · 51 testes com banco simulado · CI · proteção contra fórmulas maliciosas no CSV
 
 ### 🔎 [SQL-Interface](https://github.com/KawanVictor/SQL-Interface) · [▶ testar a demo](https://kawanvictor.vercel.app/#sql-demo)
-Consultas em português sobre logs de falhas de canais de TV, convertidas em SQL parametrizado. Tem validação contra SQL injection e log de auditoria. A demo roda direto no navegador, sem instalar nada.
-`Python` `FastAPI` `React` `MySQL` `Docker` · testes com pytest · CI com GitHub Actions · sobe com `docker compose up`
+Consultas em português sobre logs de falhas de canais de TV, convertidas em SQL parametrizado, com validação contra SQL injection e log de auditoria. A demo roda direto no navegador.
+`Python` `FastAPI` `React` `MySQL` `Docker` · 62 testes (pytest) · CI · sobe com `docker compose up`
 
-### ♟️ [ChessGame](https://github.com/KawanVictor/ChessGame)
-Xadrez com interface gráfica e regras completas: roque, en passant, promoção, xeque-mate e empates. Tem IA adversária com minimax e histórico de lances com desfazer.
-`Java` `Swing` · suíte de testes com perft, a referência usada para validar geradores de lances
+---
+
+## Outros projetos
 
 ### 🗺️ [War](https://github.com/KawanVictor/War)
-O jogo de tabuleiro War, com motor de regras próprio (combate, reforços, cartas e missões). Pode ser jogado no terminal ou em partidas online em tempo real.
-`Python` `Flask` `Socket.IO` · mais de 130 testes, incluindo o fluxo de socket
+O jogo de tabuleiro War com multiplayer em tempo real: mapa ilustrado, jogadores controlados pelo computador, cartas e remanejamento de tropas. Também roda no terminal.
+`Python` `Flask` `Socket.IO` · mais de 250 testes, incluindo navegador (Playwright) · CI com ruff, mypy e testes em 3 versões do Python
+
+### ♟️ [ChessGame](https://github.com/KawanVictor/ChessGame)
+Xadrez com interface gráfica e regras completas: roque, en passant, promoção, xeque-mate e empates. Tem IA adversária com minimax e poda alfa-beta.
+`Java` `Swing` · suíte de testes com perft, a referência usada para validar geradores de lances
+
+### 🕹️ [Biblioteca_Gamer](https://github.com/KawanVictor/Biblioteca_Gamer)
+App desktop para gerenciar uma coleção de jogos, integrado à Steam: busca capa, ano e gênero e importa a biblioteca da conta com as horas jogadas. Tem estatísticas, wishlist, backlog e backup.
+`Python` `SQLite` `ttkbootstrap` · chave da API protegida pelo Windows (DPAPI) · CI no Windows · gera `.exe`
 
 ### 🧱 [TetrisV2-java](https://github.com/KawanVictor/TetrisV2-java)
-Tetris com cinco modos de jogo, peça fantasma, hold e ranking persistido, organizado em camadas (domain, service, infra, ui).
-`Java` `Swing` `PostgreSQL` `Maven` · 32 testes com JUnit 5
-
-### 🎮 [Biblioteca_Gamer](https://github.com/KawanVictor/Biblioteca_Gamer)
-App desktop para gerenciar uma coleção de jogos: favoritos, wishlist, backlog, filtros, ranking e importação e exportação em CSV.
-`Python` `SQLite` `ttkbootstrap` · testes isolados em banco temporário
+Tetris com cinco modos de jogo, peça fantasma, hold e ranking persistido, organizado em camadas.
+`Java` `Swing` `PostgreSQL` `Maven` · testes JUnit 5 · CI com Java 17 e 21
 
 ### 🌐 [Portfolio](https://github.com/KawanVictor/Portfolio) · [ver site](https://kawanvictor.vercel.app)
-Meu site pessoal, em português e inglês, com currículo para download e a demo interativa do SQL-Interface.
-`React` `TypeScript` `Vite` · deploy na Vercel
+Meu site pessoal em português e inglês, com currículo para download e a demo interativa do SQL-Interface.
+`React` `TypeScript` `Vite` · CI com lint e build
 
 ---
 
@@ -83,10 +95,10 @@ Meu site pessoal, em português e inglês, com currículo para download e a demo
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,flask,react,vue,vite" alt="Node.js, NestJS, FastAPI, Flask, React, Vue, Vite">
 
 **Dados, Infra e Observabilidade**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,kubernetes,linux,grafana,githubactions" alt="PostgreSQL, MySQL, SQLite, Docker, Kubernetes, Linux, Grafana, GitHub Actions">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,docker,kubernetes,linux,grafana,githubactions,vercel" alt="PostgreSQL, MySQL, SQLite, Supabase, Docker, Kubernetes, Linux, Grafana, GitHub Actions, Vercel">
 
-**Testes:** pytest, JUnit 5 e Jest.<br>
-**Também uso:** MariaDB, Zabbix, OpenSearch, Graylog, DataMiner, Expo e modelagem de dados.<br>
+**Testes:** pytest, Vitest, Playwright, JUnit 5 e Jest.<br>
+**Também uso:** Phaser 3, MariaDB, Zabbix, OpenSearch, Graylog, DataMiner, Expo e modelagem de dados.<br>
 **Telecom:** equipamentos Cisco, Nokia e Huawei, IPTV e OTT.
 
 ---
@@ -115,7 +127,12 @@ Meu site pessoal, em português e inglês, com currículo para download e a demo
 
 **Full Stack Developer with a telecom background.** On the Digital Transformation team at Vivo (Telefônica Brasil), I build web applications end to end: React and TypeScript interfaces, APIs in Node.js, NestJS and Python, databases, and deployment with Docker and Kubernetes. I also build system integrations, AI-agent automations and observability dashboards (Grafana, OpenSearch, Graylog).
 
-**Featured projects:** [SQL-Interface](https://github.com/KawanVictor/SQL-Interface) (natural-language queries turned into parameterized SQL; FastAPI, React, Docker, CI; [live demo](https://kawanvictor.vercel.app/#sql-demo)), [ChessGame](https://github.com/KawanVictor/ChessGame) (full chess rules with a minimax AI and perft-validated move generation), [War](https://github.com/KawanVictor/War) (Risk-style board game with real-time multiplayer over Socket.IO) and [TetrisV2](https://github.com/KawanVictor/TetrisV2-java) (Java, Maven, JUnit 5).
+**Live projects:**
+- [DESTRUCTOR](https://github.com/KawanVictor/GAME-DESTRUCTOR) ([play now](https://game-destructor.vercel.app)): a 2D action and tower-building game in TypeScript and Phaser 3, with Vitest and Playwright tests, a CSP-hardened build and CI.
+- [Notas Escolares](https://github.com/KawanVictor/Notas-Escolares) ([open](https://notas-escolares-iota.vercel.app)): a grade-book web app for teachers, with Supabase auth and PostgreSQL row-level security.
+- [SQL-Interface](https://github.com/KawanVictor/SQL-Interface) ([live demo](https://kawanvictor.vercel.app/#sql-demo)): natural-language questions turned into parameterized SQL, with FastAPI, React, Docker and CI.
+
+**Also:** [War](https://github.com/KawanVictor/War) (real-time multiplayer board game with Flask and Socket.IO), [ChessGame](https://github.com/KawanVictor/ChessGame) (minimax AI with perft-validated move generation) and [TetrisV2](https://github.com/KawanVictor/TetrisV2-java) (Java, Maven, JUnit 5).
 
 **Stack:** TypeScript, Node.js, NestJS, React, Python, FastAPI, Go, Java, PostgreSQL, Docker, Kubernetes.
 
